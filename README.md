@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>[Individual or Company Name] built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
+<p>[Asined Design] built the [Iggy Icon Pack] app as a [commercial] app. This SERVICE is provided by [Astined] [at no cost] and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use [my|our] Service.</p>
@@ -10,14 +10,14 @@
     improving the Service. [I|We] will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
 <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-    which is accessible at [App Name], unless otherwise defined in this Privacy Policy.</p>
+    which is accessible at [Iggy Icon Pack], unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, [I|we] may require you to provide us with certain
     personally identifiable information, including but not limited to [add whatever else you collect here, e.g. users name | address | location | pictures]. 
 	The information that [I|we] request is [retained on your device and is not
     collected by [me|us] in any way]|[will be retained by us and used as described in this privacy policy.</p>
-<p>The app does use third party services that may collect information used to identify you. [You can mention Google services here and link to Google's privacy policy if you want].
+<p>The app does use third party services that may collect information used to identify you. 
 
 <p><strong>Log Data</strong></p>
 <p>[I|We] want to inform you that whenever you use [my|our] Service, in case of an error in the app [I|we] collect
@@ -30,7 +30,7 @@
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>!-- Check if this is true for your app, if unsure, just assume that you do use cookies and modify this next line -->This Services does not uses these “cookies” explicitly. However, the app may use third party code
+    This Services does not uses these “cookies” explicitly. However, the app may use third party code
     and libraries that use “cookies” to collection information and to improve their services. You
     have the option to either accept or refuse these cookies, and know when a cookie is being sent
     to your device. If you choose to refuse our cookies, you may not be able to use some portions of
@@ -76,7 +76,6 @@
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
     [me|us].</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
+
 </body>
 </html>
