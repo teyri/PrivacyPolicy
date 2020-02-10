@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>[Asined Design] built the [Iggy Icon Pack] app as a [commercial] app. This SERVICE is provided by [Astined] [at no cost] and is intended
+<p>[Asined Design] built the [Iggy Icon Pack] app as a [commercial] app. This SERVICE is provided by [Astined Design] [at no cost] and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use [my|our] Service.</p>
